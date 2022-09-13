@@ -4,7 +4,7 @@ The following **additional** features are implemented:
 
 * [ ] List anything else that you can get done to improve the app functionality!
 
-* [ * ]Including input check for word smaller or bigger than 4
+* [ ]Including input check for word smaller or bigger than 4
 
 ## Video Walkthrough
 
