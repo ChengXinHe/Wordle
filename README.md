@@ -2,23 +2,15 @@
 
 The following **additional** features are implemented:
 
-* [ ] List anything else that you can get done to improve the app functionality!
-
-* [ ]Including input check for word smaller or bigger than 4
+* [X] Including input check for word smaller or bigger than 4
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
 
-<img src='wordle1.gif' title=wordle1' width='' alt='wordle1' />
+<img src='wordle1.gif' title='wordle1' width='' alt='wordle1' />
 
-
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with [Kap]
 
 ## Notes
 
